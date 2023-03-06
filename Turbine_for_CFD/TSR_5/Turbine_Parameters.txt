@@ -1,0 +1,10 @@
+Turbine Parameters.
+Blades = 3 [-]
+Radio = 1.500000e-01 [m]
+Radio Hub = 3.000000e-02 [m]
+Tip Speed Ratio = 5 [-]
+Free-Stream Velocity = 7.000000e-01 [m/s]
+Angular Velocity = 2.333333e+01 [rad/seg]
+Density  = 1027 [kg/m^3]
+Power Coefficient = 3.098759e-01 [-]
+Thrust Coefficient = 7.762024e-01 [-]
